@@ -1,6 +1,7 @@
 upload/
 
 /build/
+bin/
 
 ### Eclipse ###
 .metadata
