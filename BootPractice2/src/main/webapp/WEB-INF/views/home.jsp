@@ -11,7 +11,7 @@
 <body>
 	<div class="container">
 		<h1>홈 화면입니다.</h1>
-		<p>테스트중....</p>
+		<p>테스트중.....</p>
 	</div>
 </body>
 </html>
